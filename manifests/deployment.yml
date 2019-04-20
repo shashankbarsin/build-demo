@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: builddemo 
-          image: shasb.azurecr.io/builddemo 
+          image: shasb.azurecr.io/builddemo
           ports:
           - containerPort: 8080
